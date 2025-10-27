@@ -60,11 +60,8 @@ It bridges the digital divide by providing an integrated environment for **stude
 ## 🚀 Future Enhancements  
 
 - 📱 **Mobile App Version:** Flutter-based hybrid app for offline-first access.  
-- 🤖 **AI Tutor Module:** Personalized adaptive learning and smart feedback.  
-- 🌾 **Multi-Language Support:** Add Hindi and Punjabi interfaces for local inclusivity.  
+- 🤖 **AI Tutor Module:** Personalized adaptive learning and smart feedback.   
 - ☁️ **School Network Integration:** Link multiple schools under a shared digital ecosystem.  
-- 📊 **Predictive Insights:** Machine learning-based analytics for student performance trends.  
-- 🔐 **Enhanced Security:** Role-based authentication and encrypted data storage.
 
 ---
 
