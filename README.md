@@ -13,7 +13,7 @@ It bridges the digital divide by providing an integrated environment for **stude
 
  🧠 Learning & Content Access  
 - Interactive modules and digital lessons accessible on low-bandwidth connections.  
-- Audio-visual learning support for enhanced comprehension.  
+- Audio-visual learning support for visual impered students and with voice command.  
 - Offline caching of essential content for areas with weak internet connectivity.  
 
  🧑‍🏫 Teacher Dashboard  
@@ -21,9 +21,9 @@ It bridges the digital divide by providing an integrated environment for **stude
 - Real-time student progress tracking and attendance monitoring.  
 
 👩‍🎓 Student Dashboard  
-- Personalized learning path based on grade and subject.  
-- Instant feedback on quizzes and assignments.  
-- Text-to-speech and accessibility options for inclusive learning.  
+- Gamified exam and digiatl learning Module with multi language supports.  
+- Can access the uploaded videos in Downlaodable form.  
+- Attendance Feature for easy attendance.  
 
  🏫 Admin Panel  
 - School-wide performance analytics and reporting.  
