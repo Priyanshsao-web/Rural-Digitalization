@@ -39,7 +39,7 @@ It bridges the digital divide by providing an integrated environment for **stude
 |-------------|--------------|
 | ![Screenshot 1](./assets/Screenshot-studentdashboard.png) | Student Dashboard Interface |
 | ![Screenshot 2](./assets/Screenshot-exam-map.png) | Gemified Assignment Map |
-| ![Screenshot 3](https://via.placeholder.com/800x400?text=Admin+Analytics) | Admin Performance Analytics |
+| ![Screenshot 3](./assets/Screenshot.png) | Admin Performance Analytics |
 | ![Screenshot 4](https://via.placeholder.com/800x400?text=Accessibility+Features) | Accessibility & Text-to-Speech Features |
 
 ---
