@@ -1,15 +1,15 @@
- 🌐 Nabha Digital Hub  
+## 🌐 Nabha Digital Hub  
 > Empowering rural education through accessible digital learning and smart school management.
 
 
 
- 📖 Overview  
+## 📖 Overview  
 **Nabha Digital Hub** is a web-based digital learning platform designed to modernize education in government and rural schools around Nabha.  
 It bridges the digital divide by providing an integrated environment for **students, teachers, and administrators** to learn, track progress, and manage educational activities efficiently.
 
 ---
 
- 🚀 Key Features  
+ ##🚀 Key Features  
 
  🧠 Learning & Content Access  
 - Interactive modules and digital lessons accessible on low-bandwidth connections.  
