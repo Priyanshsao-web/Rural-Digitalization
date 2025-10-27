@@ -1,58 +1,49 @@
+ 🌐 Nabha Digital Hub  
+> Empowering rural education through accessible digital learning and smart school management.
 
- Nabha Digitalization Project
 
-Empowering Rural Education through Smart Digital Solutions**
 
----
-
- Overview
-The **Nabha Digitalization Project** aims to bridge the **digital divide in rural Punjab** by providing a **cloud-native, AI-powered, and offline-first learning platform**.  
-This solution integrates **Smart Education, Digital Records,s,** to enhance student outcomes and simplify school management.
+ 📖 Overview  
+**Nabha Digital Hub** is a web-based digital learning platform designed to modernize education in government and rural schools around Nabha.  
+It bridges the digital divide by providing an integrated environment for **students, teachers, and administrators** to learn, track progress, and manage educational activities efficiently.
 
 ---
 
- Problem Statement
-- Lack of centralized student records.  
-- Limited access to **digital and experiential learning** in rural schools.  
-- Difficulty in **tracking attendance, activities, and performance**.  
-- Barriers in **verified portfolios for higher education and jobs**.  
+ 🚀 Key Features  
+
+ 🧠 Learning & Content Access  
+- Interactive modules and digital lessons accessible on low-bandwidth connections.  
+- Audio-visual learning support for enhanced comprehension.  
+- Offline caching of essential content for areas with weak internet connectivity.  
+
+ 🧑‍🏫 Teacher Dashboard  
+- Upload, manage, and assign lessons or assessments.  
+- Real-time student progress tracking and attendance monitoring.  
+
+👩‍🎓 Student Dashboard  
+- Personalized learning path based on grade and subject.  
+- Instant feedback on quizzes and assignments.  
+- Text-to-speech and accessibility options for inclusive learning.  
+
+ 🏫 Admin Panel  
+- School-wide performance analytics and reporting.  
+- Role-based access control (Admin/Teacher/Student).  
+- Cloud-based data management (Google Cloud + MongoDB).  
 
 ---
 
- Our Solution
-We propose “NABHA DigiShiksha – Smart Rural Education Hub”**, a web + mobile application with:  
+🔄 Workflow  
 
-- AI-Powered Analytics → Real-time attendance, performance, and activity insights.  
+```mermaid
+flowchart TD
+A[User Login / Signup] --> B[Role-Based Dashboard]
+B --> C[Teacher: Create & Assign Lessons]
+B --> D[Student: Access Lessons & Attempt Quizzes]
+B --> E[Admin: Monitor Reports & Analytics]
+C --> F[MongoDB + Cloud Storage]
+D --> F
+E --> F
+F --> G[Real-Time Updates & Insights]
 
-- Cloud Integration ( AWS+kubernetes )** → Secure & scalable hosting.  
-- Digital Records & Certificates** → Verified student profiles for careers & higher studies.  
-- Gamified Engagement** → Role-based workflows with easy adoption.  
+ 
 
----
-
-##  Tech Stack
-- Frontend: React.js, Tailwind CSS  
-- Backend: Node.js, Express.js  
-- Database: MongoDB / PostgreSQL  
-- Cloud: AWS+kubernetes   
-- Extras:
-  - Multer (File Management)  
-  - Chart.js / Recharts (Visualization)  
-  - i18n (Localization – Multilingual Support)  
-  - PWA (Offline-first support)  
-      
-
----
-
-##  Methodology
-1.  Requirement Analysis** → Identify rural school challenges.  
-2.  System Architecture Design** → Cloud + PWA + AI + AR/VR.  
-3.  Development** → Agile sprint-based implementation.  
-4.  Testing** → Security, performance & offline capability checks.  
-5.  Deployment** → AWS.  
-6.  Monitoring & Feedback** → Continuous improvements with analytics.  
-
----
-
-
-##  Project Structure
