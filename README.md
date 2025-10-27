@@ -31,6 +31,43 @@ It bridges the digital divide by providing an integrated environment for **stude
 - Cloud-based data management (Google Cloud + MongoDB).  
 
 ---
+## 🖼️ Screenshots  
+
+> *(Below are sample placeholders — replace these links with your actual screenshots later.)*
+
+| Screenshot | Description |
+|-------------|--------------|
+| ![Screenshot 1](https://via.placeholder.com/800x400?text=Dashboard+UI) | Student Dashboard Interface |
+| ![Screenshot 2](https://via.placeholder.com/800x400?text=Teacher+Panel) | Teacher Lesson Management Panel |
+| ![Screenshot 3](https://via.placeholder.com/800x400?text=Admin+Analytics) | Admin Performance Analytics |
+| ![Screenshot 4](https://via.placeholder.com/800x400?text=Accessibility+Features) | Accessibility & Text-to-Speech Features |
+
+---
+
+## 💻 Tech Stack  
+
+| Layer | Technologies Used |
+|-------|--------------------|
+| **Frontend** | Next.js, React.js, Tailwind CSS |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Cloud & Deployment** | Google Cloud Platform |
+| **AI / Assistive Features** | Web Speech API (Text-to-Speech, Voice Commands) |
+| **Version Control** | Git, GitHub |
+
+---
+
+## 🚀 Future Enhancements  
+
+- 📱 **Mobile App Version:** Flutter-based hybrid app for offline-first access.  
+- 🤖 **AI Tutor Module:** Personalized adaptive learning and smart feedback.  
+- 🌾 **Multi-Language Support:** Add Hindi and Punjabi interfaces for local inclusivity.  
+- ☁️ **School Network Integration:** Link multiple schools under a shared digital ecosystem.  
+- 📊 **Predictive Insights:** Machine learning-based analytics for student performance trends.  
+- 🔐 **Enhanced Security:** Role-based authentication and encrypted data storage.
+
+---
+
 
 🔄 Workflow  
 
@@ -44,6 +81,3 @@ C --> F[MongoDB + Cloud Storage]
 D --> F
 E --> F
 F --> G[Real-Time Updates & Insights]
-
- 
-
