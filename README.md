@@ -49,10 +49,9 @@ It bridges the digital divide by providing an integrated environment for **stude
 
 | Layer | Technologies Used |
 |-------|--------------------|
-| **Frontend** | Next.js, React.js, Tailwind CSS |
+| **Frontend** |  Html, Tailwind CSS, Javascript |
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB |
-| **Cloud & Deployment** | Google Cloud Platform |
 | **AI / Assistive Features** | Web Speech API (Text-to-Speech, Voice Commands) |
 | **Version Control** | Git, GitHub |
 
