@@ -64,7 +64,12 @@ It bridges the digital divide by providing an integrated environment for **stude
 - ☁️ **School Network Integration:** Link multiple schools under a shared digital ecosystem.  
 
 ---
-
+## 👨‍💻 Authors and Contributors
+- **Team: Clever Codex**,
+- Tausif Khan(Team Leader , Backend Developer)
+- Priyansh Sao (Frontend developer )
+- Sourabh Chnadrakar (Game developer )
+- Meghmala Singh(Researcher , Game Designer )
 
 🔄 Workflow  
 
