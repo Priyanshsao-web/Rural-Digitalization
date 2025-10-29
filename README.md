@@ -67,9 +67,6 @@ It bridges the digital divide by providing an integrated environment for **stude
 ## 👨‍💻 Authors and Contributors
 - **Team: Clever Codex**,
 - Tausif Khan(Team Leader , Backend Developer)
-- Priyansh Sao (Frontend developer )
-- Sourabh Chnadrakar (Game developer )
-- Meghmala Singh(Researcher , Game Designer )
 
 🔄 Workflow  
 
